@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/expressFood/static/css/main.117fe8a5.chunk.css",
-    "main.js": "/github.io/expressFood/static/js/main.f964c188.chunk.js",
-    "main.js.map": "/github.io/expressFood/static/js/main.f964c188.chunk.js.map",
-    "runtime-main.js": "/github.io/expressFood/static/js/runtime-main.b28d10b7.js",
-    "runtime-main.js.map": "/github.io/expressFood/static/js/runtime-main.b28d10b7.js.map",
-    "static/css/2.de424728.chunk.css": "/github.io/expressFood/static/css/2.de424728.chunk.css",
-    "static/js/2.2cf20e40.chunk.js": "/github.io/expressFood/static/js/2.2cf20e40.chunk.js",
-    "static/js/2.2cf20e40.chunk.js.map": "/github.io/expressFood/static/js/2.2cf20e40.chunk.js.map",
-    "index.html": "/github.io/expressFood/index.html",
-    "precache-manifest.62c6d925f7469be972d9b4c934d8c3c6.js": "/github.io/expressFood/precache-manifest.62c6d925f7469be972d9b4c934d8c3c6.js",
-    "service-worker.js": "/github.io/expressFood/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/github.io/expressFood/static/css/2.de424728.chunk.css.map",
-    "static/css/main.117fe8a5.chunk.css.map": "/github.io/expressFood/static/css/main.117fe8a5.chunk.css.map",
-    "static/js/2.2cf20e40.chunk.js.LICENSE.txt": "/github.io/expressFood/static/js/2.2cf20e40.chunk.js.LICENSE.txt"
+    "main.css": "/expressFood/static/css/main.117fe8a5.chunk.css",
+    "main.js": "/expressFood/static/js/main.882ee79c.chunk.js",
+    "main.js.map": "/expressFood/static/js/main.882ee79c.chunk.js.map",
+    "runtime-main.js": "/expressFood/static/js/runtime-main.f4b632c9.js",
+    "runtime-main.js.map": "/expressFood/static/js/runtime-main.f4b632c9.js.map",
+    "static/css/2.de424728.chunk.css": "/expressFood/static/css/2.de424728.chunk.css",
+    "static/js/2.bbd94394.chunk.js": "/expressFood/static/js/2.bbd94394.chunk.js",
+    "static/js/2.bbd94394.chunk.js.map": "/expressFood/static/js/2.bbd94394.chunk.js.map",
+    "index.html": "/expressFood/index.html",
+    "precache-manifest.b996428a440df2767692c2efb8d17355.js": "/expressFood/precache-manifest.b996428a440df2767692c2efb8d17355.js",
+    "service-worker.js": "/expressFood/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/expressFood/static/css/2.de424728.chunk.css.map",
+    "static/css/main.117fe8a5.chunk.css.map": "/expressFood/static/css/main.117fe8a5.chunk.css.map",
+    "static/js/2.bbd94394.chunk.js.LICENSE.txt": "/expressFood/static/js/2.bbd94394.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b28d10b7.js",
+    "static/js/runtime-main.f4b632c9.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.2cf20e40.chunk.js",
+    "static/js/2.bbd94394.chunk.js",
     "static/css/main.117fe8a5.chunk.css",
-    "static/js/main.f964c188.chunk.js"
+    "static/js/main.882ee79c.chunk.js"
   ]
 }
